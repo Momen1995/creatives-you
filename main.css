@@ -19,7 +19,7 @@ body{
   }
 
   .learn{
-    @apply w-full md:col-span-6 shadow-lg rounded-lg bg-[#faf9f6] px-6 pt-3 pb-10
+    @apply w-full md:col-span-6 md:shadow-lg rounded-lg bg-[#faf9f6] px-6 pt-3 pb-10
   }
 
   .skill{
